@@ -43,13 +43,13 @@ To install the app on your Android device, download the APK file from the link b
 2. Install dependencies
    ```sh
    flutter run
-   
+
 3. Run the app
 
    ```sh
    flutter run
 
-4. Build the 
+4. Build the APK
 
    ```sh
    flutter build apk --split-per-abi
